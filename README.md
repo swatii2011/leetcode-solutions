@@ -11,6 +11,7 @@ My LeetCode solutions in Python
 | [0152-maximum-product-subarray](https://github.com/swatii2011/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/swatii2011/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/swatii2011/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/swatii2011/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
